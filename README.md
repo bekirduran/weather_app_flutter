@@ -1,6 +1,6 @@
 # flutter_weather_app
 
-A  Flutter  Weather application.
+A  Flutter  Weather application. Using Free API and Data uptading with BlocProvider 3th part library.
 
 ## Getting Started
 
